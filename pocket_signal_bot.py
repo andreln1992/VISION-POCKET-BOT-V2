@@ -11,11 +11,7 @@ RSI_PERIOD = 14
 FREE_LIMIT = 50  # daily free signals
 
 # === MAJOR FOREX PAIRS ===
-CURRENCY_PAIRS = [
-    "EUR/USD", "GBP/USD", "USD/JPY", "USD/CAD", "AUD/USD", "NZD/USD",
-    "EUR/JPY", "GBP/JPY", "EUR/GBP", "USD/CHF", "EUR/CHF", "CAD/JPY",
-    "AUD/JPY", "NZD/JPY", "GBP/CHF", "AUD/CAD"
-]
+CURRENCY_PAIRS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD"]
 
 # === STORAGE ===
 signal_count = 0
